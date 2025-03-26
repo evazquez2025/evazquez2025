@@ -11,9 +11,9 @@
 - 🔭 I’m currently working on AML Compass.
 - 🌱 I’m currently learning IA.
 - 👯 I’m looking to collaborate on interesting projects.
-- 🤔 I’m currently focused on improving my skills in [cakephp].
-- 💬 Ask me about anything related to [php].
-- 📫 How to reach me: [evazquez@optimacompass.com].
+- 🤔 I’m currently focused on improving my skills in [![CakePHP](https://img.shields.io/badge/-cakephp-C92735?style=flat&logo=cakephp&logoColor=white)].
+- 💬 Ask me about anything related to [![PHP](https://img.shields.io/badge/-Php-396c94?style=flat&logo=Php&logoColor=white)].
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-%23FF6347?style=flat&logo=envelope&logoColor=white)](mailto:evazquez@optimacompass.com).
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### 🌍 Find Me | Encuéntrame en
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
 
