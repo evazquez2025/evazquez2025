@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on interesting projects.
 - 🤔 I’m currently focused on improving my skills in ![CakePHP](https://img.shields.io/badge/-cakephp-C92735?style=flat&logo=cakephp&logoColor=white).
 - 💬 Ask me about anything related to ![PHP](https://img.shields.io/badge/-Php-396c94?style=flat&logo=Php&logoColor=white).
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-gmail-FF6347?style=flat&logo=gmail&logoColor=white)](mailto:evazquez@optimacompass.com).
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-FF6347?style=flat&logo=gmail&logoColor=white)](mailto:evazquez@optimacompass.com).
 
 ---
 
