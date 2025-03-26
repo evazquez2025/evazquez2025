@@ -40,7 +40,7 @@
 
 ### 🌍 Find Me | Encuéntrame en
 
-- LinkedIn: ![LinkedIn][(https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+- LinkedIn: ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)(https://linkedin.com)
 
 ---
 
