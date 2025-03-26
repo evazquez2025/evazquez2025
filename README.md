@@ -28,7 +28,7 @@
 ![CakePHP](https://img.shields.io/badge/-cakephp-C92735?style=flat&logo=cakephp&logoColor=white)
 ![Posman](https://img.shields.io/badge/-postman-EF5B25?style=flat&logo=postman&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgresql-396c94?style=flat&logo=Postgresql&logoColor=white)
-
+![Jira](https://img.shields.io/badge/-jira-0053cd?style=flat&logo=jira&logoColor=white)
 
 ---
 
