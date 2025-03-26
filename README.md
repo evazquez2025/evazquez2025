@@ -40,7 +40,7 @@
 
 ### 🌍 Find Me | Encuéntrame en
 
-- LinkedIn: [Tu LinkedIn]
+- LinkedIn: ![LinkedIn](https://linkedin.com)
 
 ---
 
