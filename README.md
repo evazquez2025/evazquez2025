@@ -2,8 +2,7 @@
 
 ## Full-Stack Developer | Desarrollador Fullstack
 
-🌐 **English | Español**
-**Languages**: 🇬🇧 English | 🇪🇸 Español
+🌐 **🇬🇧 ![English Flag](https://flagsapi.com/GB/flat/32.png) English | 🇪🇸 ![Spanish Flag](https://flagsapi.com/ES/flat/32.png) Español**
 
 ---
 
