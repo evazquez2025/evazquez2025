@@ -3,6 +3,7 @@
 ## Full-Stack Developer | Desarrollador Fullstack
 
 🌐 **English | Español**
+**Languages**: 🇬🇧 English | 🇪🇸 Español
 
 ---
 
