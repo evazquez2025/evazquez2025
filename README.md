@@ -2,8 +2,8 @@
 
 ## Full-Stack Developer | Desarrollador Fullstack
 
-🌐 **🇬🇧 ![English Flag](https://flagsapi.com/GB/flat/32.png) English | 🇪🇸 ![Spanish Flag](https://flagsapi.com/ES/flat/32.png) Español**
-
+🌐 **🇬🇧 ![English Flag](https://flagcdn.com/16x12/gb.png) English | 🇪🇸 ![Spanish Flag](https://flagcdn.com/16x12/es.png) Español**
+![English Flag](https://flagsapi.com/GB/flat/16.png) | ![Spanish Flag](https://flagsapi.com/ES/flat/16.png)
 ---
 
 ### 🚀 About Me | Sobre mí
