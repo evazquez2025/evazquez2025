@@ -31,9 +31,9 @@
 
 ![Postgres](https://img.shields.io/badge/-Postgresql-396c94?style=for-the-badge&logo=Postgresql&logoColor=white)
 
-![Postman](https://img.shields.io/badge/-postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Jira](https://img.shields.io/badge/-jira-0053cd?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/-postman-EF5B25?logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
+![Jira](https://img.shields.io/badge/-jira-0053cd?logo=jira&logoColor=white)
 
 ---
 
