@@ -19,14 +19,11 @@
 
 ### 🛠️ Technologies & Tools | Tecnologías y Herramientas
 
-<details>
-  <summary><b>Skills</b></summary>
 [![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![javascript](https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 ![PHP](https://img.shields.io/badge/PHP-★★★-lightgrey?labelColor=396c94&style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★★-lightgrey?labelColor=00758F?style=for-the-badge&logo=postman&logoColor=white)
-</details>
 
 ![Jquery](https://img.shields.io/badge/-Jquery-0769AD?style=for-the-badge&logo=Jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-fe819d?style=for-the-badge&logo=Chart.js&logoColor=white)
