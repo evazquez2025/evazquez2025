@@ -19,8 +19,8 @@
 
 ### 🛠️ Technologies & Tools | Tecnologías y Herramientas
 
-![HTML](https://img.shields.io/badge/-Html-e34f26?style=flat&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-0a7bbf?style=flat&logo=css3&logoColor=black)
+![HTML](https://img.shields.io/badge/-Html-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-0a7bbf?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFEA00?style=flat&logo=javascript&logoColor=black)
 ![Jquery](https://img.shields.io/badge/-Jquery-0769AD?style=flat&logo=Jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-fe819d?style=flat&logo=Chart.js&logoColor=white)
@@ -28,6 +28,7 @@
 ![CakePHP](https://img.shields.io/badge/-cakephp-C92735?style=flat&logo=cakephp&logoColor=white)
 ![Posman](https://img.shields.io/badge/-postman-EF5B25?style=flat&logo=postman&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgresql-396c94?style=flat&logo=Postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Jira](https://img.shields.io/badge/-jira-0053cd?style=flat&logo=jira&logoColor=white)
 
 ---
