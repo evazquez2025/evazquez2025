@@ -2,6 +2,20 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=evazquez2025)
 
+#### GitHub Sponsors:
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=flat&logo=github&logoColor=white)](https://github.com/sponsors/your-username)
+
+#### PayPal:
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-brightgreen)](https://www.paypal.me/your-username)
+
+#### Ko-fi:
+[![Buy Me a Coffee](https://img.shields.io/badge/Support%20Me-Ko%20fi-FF5B5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-username)
+
+#### Patreon:
+[![Patreon](https://img.shields.io/badge/Support%20Me-Patreon-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/your-username)
+
+---
+
 ## Full-Stack Developer ![English Flag](https://flagsapi.com/GB/flat/16.png) | ![Spanish Flag](https://flagsapi.com/ES/flat/16.png) Desarrollador Fullstack
 
 🌐 **🇬🇧 ![English Flag](https://flagcdn.com/16x12/gb.png) English | 🇪🇸 ![Spanish Flag](https://flagcdn.com/16x12/es.png) Español**
