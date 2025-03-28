@@ -72,14 +72,16 @@
 
 If you enjoy my projects and want to support my work, you can donate via any of the platforms below:
 
-#### GitHub Sponsors:
+**GitHub Sponsors:**
 [![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=flat&logo=github&logoColor=white)](https://github.com/sponsors/your-username)
 
-#### PayPal:
+**PayPal:**
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-brightgreen)](https://www.paypal.me/your-username)
 
-#### Ko-fi:
+**Ko-fi:**
 [![Buy Me a Coffee](https://img.shields.io/badge/Support%20Me-Ko%20fi-FF5B5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-username)
 
-#### Patreon:
+**Patreon:**
 [![Patreon](https://img.shields.io/badge/Support%20Me-Patreon-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/your-username)
+
+Contributions are welcomed!
