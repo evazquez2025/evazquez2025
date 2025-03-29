@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Elvis!
 
+![Header Image](https://github.com/evazquez2025/evazquez2025/blob/main/BannerGitHubOptimaCompass.png)
+
 ![Profile views](https://komarev.com/ghpvc/?username=evazquez2025)
 ![](https://badges.pufler.dev/visits/evazquez2025/evazquez2025?color=black&logo=github&style=flat-square)
 ---
